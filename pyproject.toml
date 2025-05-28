@@ -3,7 +3,7 @@
 name = "ai-travel-agent"
 version = "0.1.1"
 description = ""
-authors = ["Nir Bar"]
+authors = ["manognav"]
 readme = "README.md"
 package-mode = false
 
